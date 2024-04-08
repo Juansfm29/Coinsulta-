@@ -1,0 +1,37 @@
+# Consulta de Estudiantes Aprobados
+
+Este proyecto implementa una aplicación web para consultar información sobre estudiantes que han aprobado un curso. Utiliza una API para obtener los datos de los estudiantes aprobados, permitiendo al usuario buscar por número de documento.
+
+## Funcionalidades
+
+- Consulta de estudiantes aprobados por número de documento.
+- Validación de datos de entrada.
+- Manejo de errores en caso de fallos en la conexión o búsqueda de datos.
+- Interfaz de usuario amigable.
+
+## Tecnologías Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- [Otras dependencias o tecnologías utilizadas, si corresponde]
+
+## Uso
+
+1. Clona este repositorio en tu máquina local.
+2. Abre el archivo `index.html` en tu navegador web.
+
+## Estructura del Proyecto
+
+- `index.html`: Página principal de la aplicación.
+- `styles.css`: Hoja de estilos CSS para dar estilo a la aplicación.
+- `script.js`: Archivo JavaScript que contiene la lógica de la aplicación.
+- [Otros archivos o carpetas, si corresponde]
+
+## Contribución
+
+Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, por favor crea un "issue" en este repositorio o envía una solicitud de extracción.
+
+## Licencia
+
+Este proyecto está bajo la [Licencia MIT](LICENSE).
